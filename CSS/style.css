@@ -1,0 +1,149 @@
+.bouton{
+  background-color:white;
+  width:150px;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 50px;
+  padding:10px;
+}
+
+
+body {
+font-family: Hiragino Maru Gothic ProN;
+font-style: normal;
+font-size: 16px;
+background-color: #e8eef1 ;
+padding-left: 50px;
+padding-right: 50px ;
+font-weight: 400px;
+} 
+
+
+h1 {
+  color:#050D39;
+  font-weight: 900px ;
+  font-family: Hiragino Kaku Gothic StdN;
+}
+
+
+h2 {
+  color:#050D39 ;
+  font-family: Hiragino Kaku Gothic StdN;
+  text-align: center;
+}
+
+h3 {
+  color:#050D39 ;
+  font-family: Hiragino Kaku Gothic StdN;
+  text-align: center;
+}
+
+
+.h2_fondbleu {
+  color: #CEEFF2;
+}
+
+
+#box-1{
+  display: inline-flex;
+  background-color: #CEEFF2 ;
+  padding: 50px;
+}
+
+
+#paragraphe-1{
+  width: 500px;
+}
+
+
+#form {
+  background-color: #EC5627 ;
+  width: 240px;
+  height: auto;
+  text-align: center;
+  border-radius: 5px;
+  padding: 30px;
+} 
+
+
+#buying{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+
+#box-2.1{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 20px;
+}
+
+
+#box-2.2{
+  display:flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  padding: 20px;
+}
+
+
+#care{
+  background-color: #126a7c;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+
+#start {
+  column-count: 4;
+text-align: center;
+  padding: 20px;
+margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+
+.icone{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+
+#C{
+  background-color: #126A7C ;
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  column-count: 2;
+  text-align: center;
+}  
+
+
+
+
+#join{
+  background-color:#187183;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+
+#jo{
+  column-count: 2;
+  padding-left: 50px;
+  padding-top: 10px;
+}
+
+
+
+#footer{
+  column-count: 2;
+  text-align: center;
+  margin-top: 50px;
+}
