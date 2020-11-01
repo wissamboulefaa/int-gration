@@ -43,11 +43,16 @@ h3 {
   color: #CEEFF2;
 }
 
+#box {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
 
 #box-1{
   display: inline-flex;
   background-color: #CEEFF2 ;
-  padding: 50px;
+  padding: 100px;
 }
 
 
@@ -58,11 +63,11 @@ h3 {
 
 #form {
   background-color: #EC5627 ;
-  width: 240px;
-  height: auto;
+  width: auto;
+  height: 240px;
   text-align: center;
   border-radius: 5px;
-  padding: 30px;
+  padding: 50px;
 } 
 
 
@@ -74,7 +79,7 @@ h3 {
 }
 
 
-#box-2.1{
+#box-2{
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -82,11 +87,11 @@ h3 {
 }
 
 
-#box-2.2{
+#box-3{
   display:flex;
-  flex-direction: row-reverse;
-  align-items: center;
-  padding: 20px;
+  flex-direction : row-reverse;
+  align-items : center;
+  padding : 20px;
 }
 
 
